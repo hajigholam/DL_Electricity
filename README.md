@@ -1,0 +1,5 @@
+# Abstract 
+
+(Nima Rafizadeh, Amirhossein Hajigholam Saryazdi, Behdad Ehsani)
+
+The prediction of electricity load is one of the most important routines for an electricity market. Accurate prediction of electricity load is extremely beneficial to market participants in risk management and decision making. In this study, we use data from hourly real-time electricity load in the New York State, which has one of the world's largest deregulated electricity markets, from January 1, 2019, 00:00 to December 31, 2019, 23:00 to assess the performance of advanced deep learning methods in electricity load prediction. We accomplish this first by employing the most common statistical and machine learning methods such as  linear regression, random forest, SVR, and neural network, and then progressing to the advanced deep learning methods including RNN, LSTM, GRUs, and the associated stacked models. The results show that stacked RNN is the best deep learning model due to its lowest MSE and MAE, followed by RNN, and stacked LSTM. All the deep learning models, however, outperform the used statistical and machine learning methods.
