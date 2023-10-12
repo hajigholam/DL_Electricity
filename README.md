@@ -1,4 +1,4 @@
-# Deep Learning Methods to Predict Electricity Load 
+# Statistical Learning, Machine Learning, and Deep Learning Methods to Predict Electricity Load 
 
 (Nima Rafizadeh, Amirhossein Hajigholam Saryazdi, Behdad Ehsani)
 
